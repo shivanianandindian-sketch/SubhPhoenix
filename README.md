@@ -8,7 +8,6 @@
 **An AI-powered, multilingual humanitarian platform for refugees and displaced people.**
 
 [![Status](https://img.shields.io/badge/status-in%20development-orange)]()
-[![License](https://img.shields.io/badge/license-MIT-blue)]()
 [![Languages](https://img.shields.io/badge/languages-20%2B-brightgreen)]()
 [![Made with Care](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)]()
 
