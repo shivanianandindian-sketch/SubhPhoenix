@@ -5,7 +5,7 @@
 # 🕊️ SubhPhoenix
 ### *From Survival to Touching the Sky*
 
-**An AI-powered, multilingual humanitarian platform for refugees and displaced people.**
+**An AI-powered, multilingual humanitarian platform for refugees and displaced people. A platform to connect needy to helpers**
 
 [![Status](https://img.shields.io/badge/status-in%20development-orange)]()
 [![Languages](https://img.shields.io/badge/languages-20%2B-brightgreen)]()
@@ -20,6 +20,8 @@
 **SubhPhoenix** is not just a website — it is a **digital companion** built to stand beside people in some of the hardest moments of their lives. It helps refugees and displaced individuals find shelter, food, medical care, legal guidance, and emotional support — all in their **own language**.
 
 Millions of displaced people face a second crisis after fleeing danger: the inability to communicate, understand local systems, or access help because of language and technology barriers. SubhPhoenix exists to remove that barrier.
+
+It ensures the secure communication between the refugee and NGO , helps NGO to navigate the people who need their help.
 
 > *"Technology should not be a privilege for the comfortable — it should be a lifeline for the vulnerable."*
 
